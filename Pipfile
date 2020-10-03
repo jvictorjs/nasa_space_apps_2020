@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+requests = "*"
+boto3 = "*"
+plotly = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+meteomatics = "*"
+
+[requires]
+python_version = "3.7"
