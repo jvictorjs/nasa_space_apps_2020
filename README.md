@@ -24,10 +24,15 @@ Finally, make sure you are inside the folder "dashboard_and_risk" and run:
 python dashboard_demo.py
 ```
 
-### What was implemented?
+### What has been implemented?
 
 Just a small part of the dashboard was implemented:
 
 * Active fire (data from FIRMS) visualization with high risk areas (prediction made with a very simple heuristic using only the wind direction - there was no time to build a prediction model);
 * Relative humidity visualization;
 * Wind speed and direction. In this map, the wind direction is represented by a rocket due to the absense of an arrow in the icons database (plotly dash). For wind speed, hover the mouse over each rocket.
+
+
+## Running the mobile app
+
+### What has been implemented?
