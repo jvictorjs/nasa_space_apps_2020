@@ -1,6 +1,6 @@
 import json
 import h5py
-from keys import mateomatics_user, password_user, mapbox_token
+from keys import mateomatics_user, mateomatics_password, mapbox_token
 import requests
 import pandas as pd
 import numpy as np
@@ -122,7 +122,7 @@ def plot_fig1(layer):
             column_index = int(round(((lon + 180) / 360) * grid_cols))
             fire_grid[row_index][column_index] = 1
             r = requests.get(f'https://api.meteomatics.com/2020-10-02T18ZPT2H:PT20M/relative_humidity_2m:p,wind_speed_10m:kmh,wind_dir_10m:d/{lat},{lon}/csv?model=mix',
-                         auth=HTTPBasicAuth(mateomatics_user, password_user))
+                         auth=HTTPBasicAuth(mateomatics_user, mateomatics_password))
             TESTDATA = StringIO(r.text)
             df_temp = pd.read_csv(TESTDATA, sep=";")
             if 'wind_dir_10m:d' in df_temp.columns:

@@ -1,3 +1,3 @@
-mateomatics_user='federaluniversityofpernambuco_lacerda'
-password_user='9KxSd6DeBoPw3'
-mapbox_token='pk.eyJ1IjoiZXVyb3BpbzEyMyIsImEiOiJja2ZyZmd2bWEwdXlwMnJydmpvanl2eGJyIn0.eB5mSN6pgC0Hpx2UjhG1Jw'
+mateomatics_user=''
+mateomatics_password=''
+mapbox_token=''
