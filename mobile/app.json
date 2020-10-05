@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Firesafe",
+    "slug": "firesafe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_firesafe.png",
+    "splash": {
+      "image": "./assets/splash_firesafe2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f5f5"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jvwr.firesafe"
+    }
+  }
+}
