@@ -69,4 +69,5 @@ Instagram post: https://www.instagram.com/p/CGHzBfUIV4R/?hl=en
 
 Another related post with some pictures:
 https://www.instagram.com/p/CGIxh_1IF6K/?utm_source=ig_web_copy_link
+![Screenshot 2022-10-15 002434](https://user-images.githubusercontent.com/28718999/195966771-f9eb1d76-cbd5-46ff-a10b-980f2fa1174d.png)
 
