@@ -13,7 +13,6 @@ https://www.spaceappschallenge.org/about/
 
 > Space Apps provides problem-solvers worldwide with NASA’s free and open data, giving teams the opportunity to learn how to use these resources to solve each year’s challenges.
 
-
 ## Running the dashboard
 
 First of all, you need to run:
@@ -58,3 +57,16 @@ It will open the Expo server. You can install the Expo App in your phone, scan t
 ### What has been implemented?
 
 * We launched a MVP app, still not integrated with the active fire API. Just a base app for future improvements.
+
+
+
+## UPDATE! We got the 2nd place!
+Here it is a journal news with our names: https://blogs.ne10.uol.com.br/mundobit/2020/10/27/pernambucanas-sao-as-primeiras-colocadas-no-nasa-space-apps-challenge/
+> Em segundo lugar, ficou a equipe composta por Arthur Felipe, mestre em Ciência da Computação pela UFPE/ CTO na Intelivix; Camylle Vieira, designer gráfico pela UFPE; João Victor, analista de T.I no Ministério da Economia; e Marcelo Gomes, cientista de Dados sênior na Procuradoria Geral do Estado de PE. Eles crioram o projeto “Firesafe”, uma aplicação mobile que tem o objetivo de aumentar a capacidade de combate aos incêndios por parte do Corpo de Bombeiros com o apoio da população. A solução permite a junção de dados de satélite com fogo ativo e notificações enviadas pela população civil, agilizando a comunicação com os bombeiros.
+
+Instagram post: https://www.instagram.com/p/CGHzBfUIV4R/?hl=en
+![Screenshot 2022-10-15 002038](https://user-images.githubusercontent.com/28718999/195966645-4639aaad-9ec4-4b1a-9563-2e5e34a71e78.png)
+
+Another related post with some pictures:
+https://www.instagram.com/p/CGIxh_1IF6K/?utm_source=ig_web_copy_link
+
