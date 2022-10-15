@@ -4,6 +4,16 @@ Link to the project description: https://2020.spaceappschallenge.org/challenges/
 
 The system is divided into two parts: the dashboard and the mobile app. Here are the instructions to run what we have implemented during the competition.
 
+## NASA International Space Apps Challenge
+It is the largest annual space & science hackathon in the world!
+https://www.spaceappschallenge.org/about/
+> The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space. 
+
+> Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards.
+
+> Space Apps provides problem-solvers worldwide with NASA’s free and open data, giving teams the opportunity to learn how to use these resources to solve each year’s challenges.
+
+
 ## Running the dashboard
 
 First of all, you need to run:
