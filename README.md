@@ -57,7 +57,7 @@ It will open the Expo server. You can install the Expo App in your phone, scan t
 ### What has been implemented?
 
 * We launched a MVP app, still not integrated with the active fire API. Just a base app for future improvements.
-
+<img src="https://user-images.githubusercontent.com/28718999/196056312-d90a8b25-86da-4432-b4cb-977c72638f00.jpg" width="400" />
 
 
 ## UPDATE! We got the 2nd place!
